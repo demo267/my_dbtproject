@@ -1,5 +1,5 @@
 name: 'my_dbt_project'
-version: '1.0.0'
+version: 45.67.67
 config-version: 2
 
 # This must match the profile name in profiles.yml
